@@ -1,7 +1,7 @@
-Origin: RBZ Repo
-Label: RBZ Repo
+Origin: rbz repo
+Label: Rabazan Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Description: rbz
