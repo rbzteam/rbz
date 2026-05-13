@@ -1,7 +1,7 @@
-Origin: rbz Repo
-Label:  rbz Repo
+Origin: RBZ Repo
+Label: RBZ Repo
 Suite: stable
 Version: 1.0
-Codename: rbz
+Codename: ios
 Architecture: iphoneos-arm64
 Description: My Sileo Repo
