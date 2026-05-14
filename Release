@@ -1,0 +1,7 @@
+Origin: rbz repo
+Label: Rabazan Repo
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: rbz
